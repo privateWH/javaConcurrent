@@ -56,6 +56,6 @@ Dummy
   
   2. After handled the best package agreement. I want the abilities to calculate the storage cost and time that it took to reconstruct semantic meaningful data.
   
-
+ Notification:Watch and Monitor Change. at a time, in conditions of various variables.
   
         
