@@ -39,7 +39,7 @@ Dummy
  
         
    2. Retrieve mixture by automatic tunning.
-      This is going to be interesting because you can have plain text or structural text that adds foramtting. However a picture worth thousand words and a movie or sound might be a different story. and other sensational or not receptor like pressure, heat, waves, atoms. Those can be expressed or manipulated as the product of retrival (similarly with preserving). But in essences, This types of Retrieve should have its own algorithmic process and substition (FAKING it vs REAL) for shortcuts or interpetational sick, after we need to be able to understand it to make sense. but if doesn't make sense that's fine. save the algorithm try it next time..
+      This is going to be interesting because you can have plain text or structural text that adds foramtting. However a picture worth thousand words and a movie or sound might be a different story. and other sensational or not receptor like pressure, heat, waves, atoms. Those can be expressed or manipulated as the product of retrival (similarly with preserving). But in essences, This types of Retrieve should have its own algorithmic process and substition (FAKING it vs REAL) for shortcuts or interpetational sick, after we need to be able to understand it to make sense. but if doesn't make sense that's fine. save the algorithm (someone should remember all the algorithm that already know, so only the cool part gets to added in addition to the old algorithms) save time for other HUMAN to try it next time..
  
    
  Complicated:
